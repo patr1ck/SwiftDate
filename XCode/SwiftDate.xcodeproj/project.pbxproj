@@ -499,12 +499,14 @@
 					1FAA83911C79C6DA0084BAB6 = {
 						CreatedOnToolsVersion = 7.2.1;
 						DevelopmentTeam = RMNVT3XS3A;
+						LastSwiftMigration = 0800;
 					};
 					1FAA839A1C79C6DA0084BAB6 = {
 						CreatedOnToolsVersion = 7.2.1;
 					};
 					90F1F3881C7F6AF500B22B90 = {
 						CreatedOnToolsVersion = 7.3;
+						LastSwiftMigration = 0800;
 					};
 					90F1F3A91C7F6BB800B22B90 = {
 						CreatedOnToolsVersion = 7.3;
@@ -815,6 +817,7 @@
 				PROVISIONING_PROFILE = "";
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 2.3;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
@@ -840,6 +843,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.houtzager.SwiftDate;
 				PROVISIONING_PROFILE = "";
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 2.3;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
@@ -893,6 +897,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.houtzager.SwiftDate-iOS";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 2.3;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -917,6 +922,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.houtzager.SwiftDate-iOS";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 2.3;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
